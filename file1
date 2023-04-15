@@ -13,3 +13,6 @@ demo
 for Github Autobuild job demo
 NewServices
 Intereste rate will be revised
+
+<b>
+When configuring a webhook, you can use the UI or API to choose which events will send you payloads</b>
